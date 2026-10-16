@@ -10,7 +10,7 @@ export default function Home() {
     >
       <h1>Next.js Kubernetes Rollback Lab</h1>
 
-      <h2>Application Version: v1</h2>
+      <h2>Application Version: v2</h2>
 
       <p>
         This application is running successfully.
